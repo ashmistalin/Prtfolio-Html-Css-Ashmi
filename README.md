@@ -261,6 +261,7 @@ body{
 ```
 
 ## OUTPUT:
+![Screenshot (266)](https://github.com/ashmistalin/Prtfolio-Html-Css-Ashmi/assets/103128410/34d89bd0-6edc-430a-91fb-64f08c32c4e6)
 
 
 ## RESULT:
